@@ -154,7 +154,13 @@ BioModels was recognized for its strength in making curated models accessible, w
 
 Participants discussed strategies to refine modeling workflows, focusing on the identification of required biological and mechanistic datasets, ELIXIR resources that could be repurposed, modeling approaches including network models, dynamic models, and knowledge graphs, as well as gaps in tools, data, ontologies, and standards. This led to the initiation of a roadmap discussion aimed at integrating ELIXIR resources with applied systems toxicology (Fig. 1). Key topics included resource discovery (for example, inclusion of toxicology models in bio.tools), harmonization of modeling metadata, computational environments suitable for toxicology modeling and EU projects and initiatives. Further discussion is needed to consolidate these plans and define actionable next steps
 
-[ .. ]
+![Fig.1 outcome of multilevel discussion](./intoxicom_ws5_figure1.png)
+
+Fig.1 outcome of multilevel discussion
+
+# Outcomes
+
+Key outcomes of the meeting included the commitment to apply AOP-helpFinder to selected case studies, with participants invited to contribute input and datasets. A standardized slide was incorporated into all EUROTOX presentations to ensure consistent communication of the initiative’s goals across INTOXICOM activities, workshops, and related efforts. The group also discussed the idea of submitting a Lorentz Center workshop application for a meeting focused on an AOP-Wiki strategic paper, with potential timelines spanning from late 2025 into 2026–2027 (https://www.lorentzcenter.nl/organize-a-workshop.html). Finally, participants agreed to publish a formal workshop report, of which this document represents the initial version.
 
 # Discussion
 

@@ -93,6 +93,7 @@ The workshop specifically targeted toxicologists with an affinity for:
 ## Workshop Themes and Background
 
 A modern chemical risk assessment framework requires robust and mechanistically grounded models linking chemical exposure to adverse health outcomes. Current approaches include:
+
 * Adverse Outcome Pathways (AOPs), that is a conceptual pathway linking molecular initiating events (MIEs) to key events (KEs) that lead to adverse outcomes (AOs).
 * AOP Network (AOPN), reflecting biological reality where:
     * a single stressor can lead to multiple possible outcomes
@@ -105,6 +106,7 @@ Yet, many of these approaches still operate outside the modern systems biology t
 ## Workshop Objectives
 
 The workshop aimed to:
+
 1. Identify ELIXIR systems biology tools, services, and platforms that can support toxicological modelling workflows.
 2. Connect systems toxicology models with ELIXIR infrastructures, e.g. inclusion in bio.tools and connection to data standards and core data resources
 3. Present two concrete use cases demonstrating how ELIXIR resources can support them.
@@ -158,9 +160,7 @@ BioModels was recognized for its strength in making curated models accessible, w
 
 Participants discussed strategies to refine modeling workflows, focusing on the identification of required biological and mechanistic datasets, ELIXIR resources that could be repurposed, modeling approaches including network models, dynamic models, and knowledge graphs, as well as gaps in tools, data, ontologies, and standards. This led to the initiation of a roadmap discussion aimed at integrating ELIXIR resources with applied systems toxicology (Fig. 1). Key topics included resource discovery (for example, inclusion of toxicology models in bio.tools), harmonization of modeling metadata, computational environments suitable for toxicology modeling and EU projects and initiatives. Further discussion is needed to consolidate these plans and define actionable next steps
 
-![Fig.1 outcome of multilevel discussion](./intoxicom_ws5_figure1.png)
-
-Fig.1 outcome of multilevel discussion
+![outcome of multilevel discussion](./intoxicom_ws5_figure1.png)
 
 # Outcomes
 

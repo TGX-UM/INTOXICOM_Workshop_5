@@ -123,9 +123,9 @@ The workshop in Athens was chaired by Karine Audouze and Chris Evelo, with organ
 
 The workshop began with a series of presentations establishing the landscape of systems biology in toxicology and highlighting ELIXIR resources that could support the community.
 
-Table 1. Presentations delivered at the workshop
+**Table 1**. Presentations delivered at the workshop
 
-| Speaker         | Title         |
+| **Speaker**     | **Title**     |
 | --------------- | ------------- |
 | Karine Audouze  | Presentation of ELIXIR and the toxicology community |
 | Chris Evelo     | The connection between systems biology and toxicology, with BioModels established as a repository for collecting and sharing computational models |

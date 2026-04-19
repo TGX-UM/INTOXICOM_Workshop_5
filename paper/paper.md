@@ -63,22 +63,26 @@ The workshop brought together toxicologists, computational modelers, system biol
 * Constructing a roadmap for continued integration of ELIXIR infrastructure into applied systems toxicology for risk assessment
 
 Organiser:
+
 * Karine Audouze (FR)
 * Rob Stierum (NL)
 
 With support from:
+
 * Marcin W. Wojewodzic (NO)
 * Joost Beltman (NL)
 * Chris Evelo (NL)
 * ELIXIR Europe
 
-Invited speakers :
+Invited speakers:
+
 * Holly Mortenson, US Environmental Protection Agency (EPA) & Duke University
 * Ellen Hessel, RIVM, NL
 * Maria Klapa, Foundation for Research & Technology - Hellas, GR
 * Marvin Martens, Maastricht University
 
 The workshop specifically targeted toxicologists with an affinity for:
+
 * systems biology modelling
 * bioinformatics
 * (q)-AOP and AOP network development

@@ -8,12 +8,14 @@ tags:
 authors:
   - name: Chris Evelo
     affiliation: 1
+    orcid: 0000-0002-5301-3142
   - name: Rob Stierum
     affiliation: 2
   - name: Meike Bünger
     affiliation: 3
   - name: Marvin Martens
     affiliation: 1
+    orcid: 0000-0003-2230-0840
   - name: Ellen Hessel
     affiliation: 4
   - name: Karine Audouze
@@ -21,12 +23,14 @@ authors:
 affiliations:
   - name: Department of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
     index: 1
+    ror: 02jz4aj89
   - name: The Netherlands Organisation for Applied Scientific Research (TNO), Utrecht, NL
     index: 2
   - name: Health-RI / ELIXIR-NL, Utrecht, NL
     index: 3
   - name: RIVM, Bilthoven, NL
     index: 4
+    ror: 01cesdt21
   - name: Université Paris Cité, INSERM 1124, Paris, FR 
     index: 5
 date: 18 April 2026

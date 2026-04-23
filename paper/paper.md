@@ -1,6 +1,6 @@
 ---
 title: 'INTOXICOM Workshop Report: Systems Biology Models for Toxicology'
-title_short: 'INTOXIOM #5: Systems Biology Models for Toxicology'
+title_short: 'INTOXICOM #5: Systems Biology Models for Toxicology'
 tags:
   - toxicology
   - systems biology
@@ -16,10 +16,13 @@ authors:
   - name: Marvin Martens
     affiliation: 1
     orcid: 0000-0003-2230-0840
-  - name: Ellen Hessel
+  - name: Danyel Jennen
     affiliation: 4
-  - name: Karine Audouze
+    orcid: 0000-0002-8618-2487
+  - name: Ellen Hessel
     affiliation: 5
+  - name: Karine Audouze
+    affiliation: 6
 affiliations:
   - name: Department of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
     index: 1
@@ -28,11 +31,14 @@ affiliations:
     index: 2
   - name: Health-RI / ELIXIR-NL, Utrecht, NL
     index: 3
-  - name: RIVM, Bilthoven, NL
+  - name: Department of Translational Genomics, GROW, FHML, Maastricht University, Maastricht, NL
     index: 4
+    ror: 02jz4aj89
+  - name: RIVM, Bilthoven, NL
+    index: 5
     ror: 01cesdt21
   - name: Université Paris Cité, INSERM 1124, Paris, FR 
-    index: 5
+    index: 6
 date: 18 April 2026
 cito-bibliography: paper.bib
 event: INTOXICOM

@@ -220,4 +220,4 @@ Participants acknowledge additional project funding from related toxicology and 
 
 ## References
 
-## Author contributions
+# Author contributions

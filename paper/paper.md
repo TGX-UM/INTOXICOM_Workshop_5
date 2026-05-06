@@ -217,7 +217,3 @@ The workshop demonstrated that the toxicology community is ready to move beyond 
 
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
 Participants acknowledge additional project funding from related toxicology and data infrastructure initiatives. A detailed funding statement will be added upon submission following BioHackrXiv conventions.
-
-## References
-
-# Author contributions

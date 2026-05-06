@@ -1,6 +1,6 @@
 ---
 title: 'INTOXICOM Workshop Report: Systems Biology Models for Toxicology'
-title_short: 'INTOXIOM #5: Systems Biology Models for Toxicology'
+title_short: 'INTOXICOM #5: Systems Biology Models for Toxicology'
 tags:
   - toxicology
   - systems biology
@@ -31,7 +31,7 @@ authors:
     affiliation: 7
     orcid: 0000-0002-2047-3185
   - name: Danyel Jennen
-    affiliation: 1
+    affiliation: 8
     orcid: 0000-0002-8618-2487
   - name: Anne Kienhuis
     affiliation: 4
@@ -40,16 +40,13 @@ authors:
     affiliation: 4
     orcid: 0009-0005-3680-0645
   - name: Dominik Martinát
-    affiliation: 7
+    affiliation: 9
     orcid: 0000-0001-6611-7883
   - name: Rahuman Sheriff
-    affiliation: 9
-    orcid: 0000-0003-0705-9809
-  - name: Egon Willighagen
-    affiliation: 1
-    orcid: 0000-0001-7542-0286
-  - name: Karine Audouze
     affiliation: 10
+    orcid: 0000-0003-0705-9809
+  - name: Karine Audouze
+    affiliation: 11
     orcid: 0000-0001-7525-4089
 affiliations:
   - name: Department of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
@@ -70,12 +67,15 @@ affiliations:
     index: 6
   - name: FORTH/ICE-HT
     index: 7
-  - name: Palacky University in Olomouc, Department of Physical Chemistry
+  - name: Department of Translational Genomics, GROW, FHML, Maastricht University, Maastricht, NL
     index: 8
-  - name: EMBL-EBI
+    ror: 02jz4aj89
+  - name: Palacky University in Olomouc, Department of Physical Chemistry
     index: 9
-  - name: Université Paris Cité, INSERM 1124, Paris, FR 
+  - name: EMBL-EBI
     index: 10
+  - name: Université Paris Cité, INSERM 1124, Paris, FR 
+    index: 11
 date: 18 April 2026
 cito-bibliography: paper.bib
 event: INTOXICOM

@@ -11,33 +11,46 @@ authors:
     orcid: 0000-0002-5301-3142
   - name: Rob Stierum
     affiliation: 2
+    orcid: 0000-0002-4409-1974
   - name: Meike Bünger
     affiliation: 3
+    orcid: 0009-0002-7664-0058
   - name: Marvin Martens
     affiliation: 1
     orcid: 0000-0003-2230-0840
   - name: Ellen Hessel
     affiliation: 4
+    orcid: 0000-0003-3960-7523
   - name: Iseult Lynch
     affiliation: 5
+    orcid: 0000-0003-4250-4584
   - name: Holly Mortensen
     affiliation: 6
+    orcid: 0000-0002-3180-5229
   - name: Maria Klapa
     affiliation: 7
+    orcid: 0000-0002-2047-3185
   - name: Danyel Jennen
     affiliation: 1
+    orcid: 0000-0002-8618-2487
   - name: Anne Kienhuis
     affiliation: 4
+    orcid: 0000-0002-6465-4498
   - name: Jente Houweling
     affiliation: 4
+    orcid: 0009-0005-3680-0645
   - name: Dominik Martinát
     affiliation: 7
+    orcid: 0000-0001-6611-7883
   - name: Rahuman Sheriff
     affiliation: 9
+    orcid: 0000-0003-0705-9809
   - name: Egon Willighagen
     affiliation: 1
+    orcid: 0000-0001-7542-0286
   - name: Karine Audouze
     affiliation: 10
+    orcid: 0000-0001-7525-4089
 affiliations:
   - name: Department of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
     index: 1
@@ -53,13 +66,13 @@ affiliations:
   - name: University of Birmingham
     index: 5
     ror: 75pmr
-    - name: US EPA; Duke University
+  - name: US EPA; Duke University
     index: 6
-    - name: FORTH/ICE-HT
+  - name: FORTH/ICE-HT
     index: 7
-    - name: Palacky University in Olomouc, Department of Physical Chemistry
+  - name: Palacky University in Olomouc, Department of Physical Chemistry
     index: 8
-    - name: EMBL-EBI
+  - name: EMBL-EBI
     index: 9
   - name: Université Paris Cité, INSERM 1124, Paris, FR 
     index: 10

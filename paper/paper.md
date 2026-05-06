@@ -18,8 +18,26 @@ authors:
     orcid: 0000-0003-2230-0840
   - name: Ellen Hessel
     affiliation: 4
-  - name: Karine Audouze
+  - name: Iseult Lynch
     affiliation: 5
+  - name: Holly Mortensen
+    affiliation: 6
+  - name: Maria Klapa
+    affiliation: 7
+  - name: Danyel Jennen
+    affiliation: 1
+  - name: Anne Kienhuis
+    affiliation: 4
+  - name: Jente Houweling
+    affiliation: 4
+  - name: Dominik Martinát
+    affiliation: 7
+  - name: Rahuman Sheriff
+    affiliation: 9
+  - name: Egon Willighagen
+    affiliation: 1
+  - name: Karine Audouze
+    affiliation: 10
 affiliations:
   - name: Department of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
     index: 1
@@ -28,11 +46,23 @@ affiliations:
     index: 2
   - name: Health-RI / ELIXIR-NL, Utrecht, NL
     index: 3
+    ror: h8qdw
   - name: RIVM, Bilthoven, NL
     index: 4
     ror: 01cesdt21
-  - name: Université Paris Cité, INSERM 1124, Paris, FR 
+  - name: University of Birmingham
     index: 5
+    ror: 75pmr
+    - name: US EPA; Duke University
+    index: 6
+    - name: FORTH/ICE-HT
+    index: 7
+    - name: Palacky University in Olomouc, Department of Physical Chemistry
+    index: 8
+    - name: EMBL-EBI
+    index: 9
+  - name: Université Paris Cité, INSERM 1124, Paris, FR 
+    index: 10
 date: 18 April 2026
 cito-bibliography: paper.bib
 event: INTOXICOM

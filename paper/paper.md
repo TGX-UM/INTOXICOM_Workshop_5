@@ -34,19 +34,19 @@ authors:
     affiliation: 8
     orcid: 0000-0002-8618-2487
   - name: Anne Kienhuis
-    affiliation: 4
+    affiliation: 9
     orcid: 0000-0002-6465-4498
   - name: Jente Houweling
     affiliation: 4
     orcid: 0009-0005-3680-0645
   - name: Dominik Martinát
-    affiliation: 9
+    affiliation: 10
     orcid: 0000-0001-6611-7883
   - name: Rahuman Sheriff
-    affiliation: 10
+    affiliation: 11
     orcid: 0000-0003-0705-9809
   - name: Karine Audouze
-    affiliation: 11
+    affiliation: 12
     orcid: 0000-0001-7525-4089
 affiliations:
   - name: Department of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
@@ -63,19 +63,21 @@ affiliations:
   - name: University of Birmingham
     index: 5
     ror: 75pmr
-  - name: US EPA; Duke University
+  - name: Tribal and Water Resources Assistance Branch, Drinking Water Capacity and Compliance Assistance Division, Office of Ground and       Drinking Water, US Environmental Protection Agency, Research Triangle Park, NC, USA.
     index: 6
   - name: FORTH/ICE-HT
     index: 7
   - name: Department of Translational Genomics, GROW, FHML, Maastricht University, Maastricht, NL
     index: 8
     ror: 02jz4aj89
-  - name: Palacky University in Olomouc, Department of Physical Chemistry
+  - name: RIVM, Bilthoven, NL and Institute for Risk Assessment Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, NL
     index: 9
-  - name: EMBL-EBI
+  - name: Palacky University in Olomouc, Department of Physical Chemistry
     index: 10
-  - name: Université Paris Cité, INSERM 1124, Paris, FR 
+  - name: EMBL-EBI
     index: 11
+  - name: Université Paris Cité, INSERM 1124, Paris, FR 
+    index: 12
 date: 18 April 2026
 cito-bibliography: paper.bib
 event: INTOXICOM
@@ -182,7 +184,7 @@ The workshop began with a series of presentations establishing the landscape of 
 
 Background lectures were delivered covering topics such as the landscape of systems toxicology modeling, Adverse Outcome Pathway (AOP) and quantitative models, exposure–health outcome modeling, and the ways in which ELIXIR infrastructures can support modeling workflows. These sessions prompted discussions on the identification of relevant ELIXIR resources, including modeling environments, pathway and network resources, curated biological knowledgebases, tooling registries such as bio.tools, and compute and workflow systems.
 
-The link between systems biology and toxicology can be strengthened through BioModels (ELIXIR), which provides a platform to collect and share computational models. However usually publications often fail to describe models in sufficient detail, frequently skipping directly to results, which undermines reproducibility. Using standardized formats such as SBML can enhance model usability outside the creator’s environment (e.g., in COPASI). Nevertheless, the availability and quality of biocuration may represent a limiting factor for broader adoption and reuse of models.
+The link between systems biology and toxicology can be strengthened through BioModels (ELIXIR) (https://www.biomodels.org/) (Malik-Sheriff et al., 2020), which provides a platform to collect and share computational models. However usually publications often fail to describe models in sufficient detail, frequently skipping directly to results, which undermines reproducibility. Using standardized formats such as SBML can enhance model usability outside the creator’s environment (e.g., in COPASI). Nevertheless, the availability and quality of biocuration may represent a limiting factor for broader adoption and reuse of models.
 
 ## Case Study 1: Neurodevelopment
 
@@ -199,7 +201,7 @@ Work on use cases:
 
 Following a presentation reviewing existing international initiatives and third-party tools, a multilevel perspective was established to situate the ELIXIR-based systems toxicology efforts within a broader scientific and regulatory context. This perspective encompassed multiple layers, including data and technology considerations (e.g., FAIR/FIP principles, data harmonization), international initiatives such as AOP Wiki, relevant ELIXIR resources like BioModels and WikiPathways, ongoing national and European research projects, and societal goals such as chemical safety and the European Green Deal’s 3Rs objectives. By linking these layers, the approach aimed to integrate tools, models, and initiatives across technical, scientific, and regulatory domains (Fig. 1). The discussion highlighted potential win–win scenarios between scientific communities and existing projects, clusters and initiatives, noting that approaches and needs may differ between nanoscience and chemical science fields. 
 
-BioModels was recognized for its strength in making curated models accessible, while the boundaries of the multilevel discussion were defined to clarify scope, distinguishing between technical aspects, ELIXIR resources, international initiatives, and ongoing research projects. A gap analysis identified missing elements, including certain community groups and additional activities that could be inventoried, with Marvin’s unpublished data serving as a concrete use case. Connections to the PARC community and OECD initiatives were emphasized, alongside FAIR AOP Cluster group and FAIR Implementation Profile (FIP) AOP considerations, to frame the big picture and guide future integration of datasets, tools, and modeling efforts.
+BioModels was recognized for its strength in making curated models accessible, while the boundaries of the multilevel discussion were defined to clarify scope, distinguishing between technical aspects, ELIXIR resources, international initiatives, and ongoing research projects. A gap analysis identified missing elements, including certain community groups and additional activities that could be inventoried, with Marvin’s unpublished data serving as a concrete use case. Connections to the PARC community and OECD initiatives were emphasized, alongside FAIR AOP Cluster group and FAIR Implementation Profile (FIP) AOP considerations, to frame the big picture and guide future integration of datasets, tools, and modeling efforts (Mortensen et al. 2026).
 
 Participants discussed strategies to refine modeling workflows, focusing on the identification of required biological and mechanistic datasets, ELIXIR resources that could be repurposed, modeling approaches including network models, dynamic models, and knowledge graphs, as well as gaps in tools, data, ontologies, and standards. This led to the initiation of a roadmap discussion aimed at integrating ELIXIR resources with applied systems toxicology (Fig. 1). Key topics included resource discovery (for example, inclusion of toxicology models in bio.tools), harmonization of modeling metadata, computational environments suitable for toxicology modeling and EU projects and initiatives. Further discussion is needed to consolidate these plans and define actionable next steps
 
@@ -207,7 +209,7 @@ Participants discussed strategies to refine modeling workflows, focusing on the 
 
 # Outcomes
 
-Key outcomes of the meeting included the commitment to apply AOP-helpFinder to selected case studies, with participants invited to contribute input and datasets. A standardized slide was incorporated into all EUROTOX presentations to ensure consistent communication of the initiative’s goals across INTOXICOM activities, workshops, and related efforts. The group also discussed the idea of submitting a Lorentz Center workshop application for a meeting focused on an AOP-Wiki strategic paper, with potential timelines spanning from late 2025 into 2026–2027 (https://www.lorentzcenter.nl/organize-a-workshop.html). Finally, participants agreed to publish a formal workshop report, of which this document represents the initial version.
+Key outcomes of the meeting included the commitment to apply AOP-helpFinder to selected case studies, with participants invited to contribute input and datasets. A standardized slide was incorporated into all EUROTOX presentations to ensure consistent communication of the initiative’s goals across INTOXICOM activities, workshops, and related efforts. The group also discussed the development of training initiatives. For example, the first Training School of the, scheduled for June 2026 in France, will focus on “Adverse Outcome Pathways (AOPs) and Systematic Reviews: Tools and Applications for CAPSTONE.” Several WP5 ELIXIR partners will contribute to this initiative. Finally, participants agreed to publish a formal workshop report, of which this document represents the initial version.
 
 # Discussion
 
